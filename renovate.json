@@ -3,7 +3,7 @@
   "packageRules": [
     {
       "matchPackagePatterns": ["spock"],
-      "sourcrUrl": "https://github.com/spockframework/spock"
+      "sourceUrl": "https://github.com/spockframework/spock"
     }
   ]
 }
