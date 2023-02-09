@@ -1,3 +1,6 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "maven": {
+  "sourceUrl": "https://github.com/spockframework/spock"
+  }
 }
