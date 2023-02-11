@@ -3,7 +3,7 @@
   "packageRules": [
     {
     "matchPackageNames": ["org.spockframework:spock-example"],
-      "customChangelogUrl": "https://github.com/spockframework/spock"
+      "customChangelogUrl": "https://github.com/spockframework/spock/docs//blob/master/release_notes.adoc"
     }
   ]
 }
