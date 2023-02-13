@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "productLinks": {
-  "documentation": 'https://docs.renovatebot.com/'
+  "documentation": "https://docs.renovatebot.com/"
   }
 }
